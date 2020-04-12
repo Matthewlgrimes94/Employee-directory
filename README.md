@@ -14,8 +14,8 @@
 
 # Screenshots
 
-![Screenshot]()
-![Screenshot]()
+![Screenshot](https://github.com/Matthewlgrimes94/Employee-directory/blob/master/public/assets/Screenshot%20(44).png)
+![Screenshot](https://github.com/Matthewlgrimes94/Employee-directory/blob/master/public/assets/Screenshot%20(45).png)
 
 <//////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
 
